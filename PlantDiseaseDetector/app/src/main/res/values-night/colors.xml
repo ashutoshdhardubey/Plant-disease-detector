@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define colors for dark mode -->
+    <color name="darkPrimary">#121212</color>
+    <color name="darkPrimaryDark">#1F1F1F</color>
+    <color name="darkAccent">#BB86FC</color>
+    <color name="darkBackgroundColor">#000000</color>
+    <color name="darkTextColorPrimary">#FFFFFF</color>
+    <color name="darkTextColorSecondary">#B3B3B3</color>
+</resources>
+
